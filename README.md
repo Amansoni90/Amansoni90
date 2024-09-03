@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amansoni90
-- 👀 I’m interested in ...Coding
-- 📫 How to reach me ...dm
-- 😄 Pronouns: ...Aman soni
+- Languages known- Java,JavaScript,SQL.
+- Skills- CSS,HTML,UI/UX,MySQL,ReactJs.
+- Soft Skills- People Management,Excellent Communication.
 
 
 <!---
